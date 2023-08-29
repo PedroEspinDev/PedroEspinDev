@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+###CONTACT & LINKS
+- LinkedIn:<link> www.linkedin.com/in/pedro-espin
+- Gmail: <link> pedroesping@gmail.com
 <!--
 **PedroEspinDev/PedroEspinDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
