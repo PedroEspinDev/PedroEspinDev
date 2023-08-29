@@ -1,5 +1,5 @@
-### Hi there 👋
-###CONTACT & LINKS
+### CONTACT & LINKS👋✨
+
 - LinkedIn:<link> www.linkedin.com/in/pedro-espin
 - Gmail: <link> pedroesping@gmail.com
 <!--
