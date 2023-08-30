@@ -7,4 +7,4 @@
     - Learning HTML
 - __*Lenguage:*__ Spanish and English 💬
 
-- Mis repositorios cambian constantemente a medida que aprendo nuevas herramientas, acepto cualquier aporte en mis proyectos el que cual pueda aprender y crecer en el gran mundo de la programación.
+[x]  Mis repositorios cambian constantemente a medida que aprendo nuevas herramientas, acepto cualquier aporte en mis proyectos el que cual pueda aprender y crecer en el gran mundo de la programación.
