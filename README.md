@@ -1,8 +1,9 @@
 ### CONTACT & LINKS👋✨
 
-- LinkedIn:<link> www.linkedin.com/in/pedro-espin
+- __*LinkedIn:*__<link> www.linkedin.com/in/pedro-espin
 - Gmail: <link> pedroesping@gmail.com
-- programming languages: Java and learning HTML
+- #programming languages: - Java
+- Learning HTML
 - Lenguage: Spanish and English
 <!--
 **PedroEspinDev/PedroEspinDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
