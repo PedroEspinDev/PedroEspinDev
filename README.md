@@ -4,7 +4,7 @@
 - __*Gmail:*__ <link> pedroesping@gmail.com 📫
 - __*programming languages*__:
     - Java
-    - Learning HTML,CSS,JS
+    - Learning HTML,CSS,JS,Docker...
 - __*Lenguage:*__ Spanish and English 💬
 
-[x]  Mis repositorios cambian constantemente a medida que aprendo nuevas herramientas, acepto cualquier aporte en mis proyectos el que cual pueda aprender y crecer en el gran mundo de la programación.
+[x]  Mis repositorios cambian constantemente a medida que aprendo nuevas herramientas, acepto cualquier aporte en mis proyectos con la finalidad de aprender y crecer juntos.
